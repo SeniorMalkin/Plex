@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\TChart.h(313): warning C4101: res: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\TChart.h(312): warning C4101: p1: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\TChart.h(312): warning C4101: p2: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\TChart.h(438): warning C4101: res: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\TChart.h(437): warning C4101: p1: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\TChart.h(437): warning C4101: p2: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\MyForm.h(290): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\MyForm.h(309): warning C4101: buf: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\MyForm.h(310): warning C4101: bbuf: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2015\projects\geometry\geometry\MyForm.h(517): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Geometry.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Geometry\Debug\Geometry.exe
+  Geometry.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Geometry\Debug\Geometry.pdb (Full PDB)
